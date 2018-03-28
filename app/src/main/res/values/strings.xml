@@ -1,0 +1,12 @@
+
+<!-- S1512605
+Abdullah Yehiay -->
+
+<resources>
+    <string name="app_name">Traffic Scotland</string>
+    <string name="sub_name">Current Incidents</string>
+    <string name="sub_name_2">Planned Roadworks</string>
+    <string name="current_incidents_btn">Show Current Incidents</string>
+    <string name="planned_road_work_btn">Show Planned Roadworks</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
